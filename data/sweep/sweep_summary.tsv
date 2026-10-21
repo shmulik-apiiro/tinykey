@@ -11,3 +11,4 @@ CCADB CA certificates, EU trust lists, ICAO passport CSCAs, Microsoft roots	all 
 India CCA chain, other emSign and eMudhra-run PKIs, Adobe AATL	360	2^41	the 8 known eMudhra intermediates
 GitHub user GPG keys (sample of 901 users; 1,028 Ed25519/X25519)	1041	2^36	0
 Nostr public keys from public relays (2026-10-21)	700053	2^37	178 (51 at most 2^8, 5 in 2^8-2^16, 121 in 2^16-2^24, 1 in 2^24-2^37)
+Login-provider (OIDC/JWKS) signing keys, 1,175 issuers (Tranco top 20k + major IdPs)	424	2^37	0
