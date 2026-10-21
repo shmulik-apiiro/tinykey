@@ -1,0 +1,13 @@
+dataset	unique_ec_keys_scanned	bound	hits
+DNSSEC root + all TLDs (1,363 signed)	593	2^36	0
+DNSSEC Tranco top 1M apex DNSKEYs (87,324 zones with DNSKEY)	61962	2^38	0
+Certificate Transparency leaves, 14 current logs (6.5M EC entries)	5877871	2^36	0
+GitHub user SSH keys (114,100 users with keys; GH Archive 2026-10-20)	195788	2^36	0
+Sigstore Rekor v2 (768k entries)	62833	2^36	0
+Sigstore Rekor v1 (50k entries)	38449	2^36	0
+OpenPGP keyrings (Debian, Ubuntu, Arch, Fedora, kernel.org)	1001	2^36	0
+Tor relays (CollecTor microdescriptors)	20300	2^36	0
+CCADB CA certificates, EU trust lists, ICAO passport CSCAs, Microsoft roots	all EC keys	2^44	the 8 known eMudhra intermediates
+India CCA chain, other emSign and eMudhra-run PKIs, Adobe AATL	360	2^41	the 8 known eMudhra intermediates
+GitHub user GPG keys (sample of 901 users; 1,028 Ed25519/X25519)	1041	2^36	0
+Nostr public keys from public relays (2026-10-21)	700053	2^37	178 (51 at most 2^8, 5 in 2^8-2^16, 121 in 2^16-2^24, 1 in 2^24-2^37)

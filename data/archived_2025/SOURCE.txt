@@ -1,0 +1,3 @@
+Internet Archive capture 2025-06-25 07:35:52 UTC of the EM DV TLS CA - G3C CRL (CRL number 10, thisUpdate 2025-06-23):
+https://web.archive.org/web/20250625073552id_/https://crl.emsign.com/?EMDVTLSCAG3C.crl
+Original URL: https://crl.emsign.com/?EMDVTLSCAG3C.crl

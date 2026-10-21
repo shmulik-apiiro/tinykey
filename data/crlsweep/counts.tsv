@@ -1,0 +1,7 @@
+class	ccadb_derived_urls	crtsh_flagged_supplement
+OK	18413 (17662 unique OK CRLs, of 17668 unique CRLs fetched)	76
+OK, issuer key not in CCADB PEMs (checked against crt.sh key of same name)	3	361
+MISMATCH	0	5 (none a trusted CA; all RSA)
+Unparsable	3	0
+Stale (nextUpdate passed)	4	44
+Unreachable	67	15
