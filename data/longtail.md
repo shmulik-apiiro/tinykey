@@ -4,11 +4,11 @@ Snapshot: default branches as of 2026-10-21. Repositories are not named; the poi
 
 ## Collection
 
-GitHub code search for the string "emSign ECC Root CA - G3" estimates about 100,000 files. Search returns at most 1,000 results per query, so the query was split into 22 partitions: cacert.pem by size bucket, common bundle file names (ca-bundle.crt, ca-certificates.crt, cacerts.pem, roots.pem, cert.pem, ca-bundle.pem), and source/text extensions (h, c, go, rs, py, js, ts, java, cs, txt, crt, pem). Result: 8,597 files in 5,695 repositories (a floor: a few pages were lost to rate limits, and code search excludes forks and private code).
+GitHub code search for the string "emSign ECC Root CA - G3" estimates about 100,000 files. Search returns at most 1,000 results per query, so the query was split into 22 partitions: cacert.pem by size bucket, common bundle file names (ca-bundle.crt, ca-certificates.crt, cacerts.pem, roots.pem, cert.pem, ca-bundle.pem), and source/text extensions (h, c, go, rs, py, js, ts, java, cs, txt, crt, pem). Result: 8,597 files in 5,696 repositories (a floor: a few pages were lost to rate limits, and code search excludes forks and private code).
 
 ## Sample
 
-338 repositories: the 38 most-starred from an initial 1,000-hit pass, the 200 most-starred of the rest (at least 116 stars), and 100 picked at random (seed 20261021) from the remaining 5,457.
+338 repositories: the 38 most-starred from an initial 1,000-hit pass, the 200 most-starred of the rest (at least 116 stars), and 100 picked at random (seed 20261021) from the remaining 5,458.
 
 ## Classification
 
